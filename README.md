@@ -4,6 +4,6 @@
 # KYC-platform
 Inhouse build KYC platform
 
-  - Know Your Customr integration
+  - Know Your Customer integration
   - Whitelister procedure
   - Token package offering
