@@ -34,7 +34,7 @@ Click on the menu item “Register PRE-ICO transaction (from 24/02/2018-10/03/20
 
 [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-register.jpg)]()
 
-**STEP 4: PACKAGE  
+**STEP 4: PACKAGE**  
  
  
 Select a package of your choice or fill in your own ETH amount on the custom package that you want to contribute and click the “BUY”-button. 
