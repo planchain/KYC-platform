@@ -29,14 +29,14 @@ STEP 2: REGISTER YOUR TRANSACTION
  
 Click on the “Account”-menu button. 
  
-[![N|Solid](https://safehaven.io/files/banners.png)](https://safehaven.io/)
+[![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-approved.jpg)
 
 STEP 3: CHOOSE THE MENU ITEM  
  
  
 Click on the menu item “Register PRE-ICO transaction (from 24/02/2018-10/03/2018)”. 
 
-[![N|Solid](https://safehaven.io/files/banners.png)](https://safehaven.io/)
+[![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-register.jpg)
 
 STEP 4: PACKAGE  
  
@@ -44,7 +44,7 @@ STEP 4: PACKAGE
 Select a package of your choice or fill in your own ETH amount on the custom package that you want to contribute and click the “BUY”-button. 
  
 
- [![N|Solid](https://safehaven.io/files/banners.png)](https://safehaven.io/)
+ [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/packages.jpg)
  
  STEP 4: PACKAGE  
  
@@ -55,12 +55,14 @@ IMPORTANT THINGS !!!
 3)	USE MAX GWEI 50, GAS LIMIT 21000 
  
 STEP 4.1: SENDING FUNDS 
+
+ [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-etherad.jpg)
  
  
 Dujardin Logino, the Co-founder of SAFE HAVEN presents some important information regarding the ETH contribution address. Make sure the ETH address in the video is the same as the one in the right. 
 If the address is the same you can contribute. If the address is not the same, don’t contribute! Your funds will be lost. 
 
-[![N|Solid](https://safehaven.io/files/banners.png)](https://safehaven.io/)
+ [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/packages.jpg)
 
 After you made the contribution, if the page is refreshing, it is because of the Ddos protection, just fill in the form again and click the “submit”-button again. 
  
