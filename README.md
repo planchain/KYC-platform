@@ -10,4 +10,4 @@ Inhouse build KYC platform
 
 # Usage procedure (for safehaven's KYC)
 
-[embed]http://example.com/file.pdf[/embed]
+[embed]https://github.com/Safehaven-io/Documents/blob/master/SafeHaven_Guideline_How_to_contribute_SHA_Tokens.pdf[/embed]
