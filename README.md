@@ -62,11 +62,11 @@ STEP 4.1: SENDING FUNDS
 Dujardin Logino, the Co-founder of SAFE HAVEN presents some important information regarding the ETH contribution address. Make sure the ETH address in the video is the same as the one in the right. 
 If the address is the same you can contribute. If the address is not the same, don’t contribute! Your funds will be lost. 
 
- [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/packages.jpg)
+
 
 After you made the contribution, if the page is refreshing, it is because of the Ddos protection, just fill in the form again and click the “submit”-button again. 
  
-[![N|Solid](https://safehaven.io/files/banners.png)](https://safehaven.io/)
+[![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-TXid.jpg)
 
 STEP 5: CONTRIBUTIONS 
  
@@ -74,8 +74,7 @@ STEP 5: CONTRIBUTIONS
 See your contribution in the list with the status “Under review”. 
 Note that it will take some days to review all the transactions. 
 
- 
- [![N|Solid](https://safehaven.io/files/banners.png)](https://safehaven.io/)
+ [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Etherscan.jpg)
  
  
 SAFE HAVEN – The Solution To Digital Inheritance 
