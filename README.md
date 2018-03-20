@@ -1,5 +1,4 @@
 
-[![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Banner.png)](https://safehaven.io/)
 
 
 # KYC-platform
@@ -12,7 +11,7 @@ Inhouse build KYC platform
 # Usage procedure (for safehaven's KYC)
 
 
-[![N|Solid](https://safehaven.io/files/banners.png)](https://safehaven.io/)
+[![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Banner.png)](https://safehaven.io/)
 
 
 GUIDELINE: How to contribute SHA Tokens 
