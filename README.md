@@ -1,4 +1,4 @@
-
+[![N|Solid](https://safehaven.io/img/logo_color.png)](https://safehaven.io/)
 
 
 # KYC-platform
@@ -22,7 +22,7 @@ STEP 1: LOG INTO YOUR ACCOUNT
  
 Log into your account with the account details you have whitelisted. 
 
-[![N|Solid](https://safehaven.io/files/banners.png)](https://safehaven.io/)
+[![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Sign-in-form.jpg)
 
 STEP 2: REGISTER YOUR TRANSACTION 
  
