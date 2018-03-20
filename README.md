@@ -10,4 +10,10 @@ Inhouse build KYC platform
 
 # Usage procedure (for safehaven's KYC)
 
-[embed]https://github.com/Safehaven-io/Documents/blob/master/SafeHaven_Guideline_How_to_contribute_SHA_Tokens.pdf[/embed]
+
+[![N|Solid](https://safehaven.io/files/banners.png)](https://safehaven.io/)
+
+
+GUIDELINE: How to contribute SHA Tokens
+STEP 1: LOG INTO YOUR ACCOUNT
+Log into your account with the account details you have whitelisted.
