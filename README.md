@@ -7,3 +7,7 @@ Inhouse build KYC platform
   - Know Your Customer integration
   - Whitelister procedure
   - Token package offering
+
+# Usage procedure (for safehaven's KYC)
+
+[embed]http://example.com/file.pdf[/embed]
