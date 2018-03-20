@@ -7,6 +7,7 @@ Inhouse build KYC platform
   - Know Your Customer integration
   - Whitelister procedure
   - Token package offering
+  - Statistics page & backend validation pages will be added after crowdsale
 
 # Usage procedure (for safehaven's KYC)
 
