@@ -16,29 +16,25 @@ Inhouse build KYC platform
 
 GUIDELINE: How to contribute SHA Tokens 
  
- 
-STEP 1: LOG INTO YOUR ACCOUNT 
- 
+**STEP 1: LOG INTO YOUR ACCOUNT 
  
 Log into your account with the account details you have whitelisted. 
 
 [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Sign-in-form.jpg)]()
 
-STEP 2: REGISTER YOUR TRANSACTION 
- 
+**STEP 2: REGISTER YOUR TRANSACTION 
  
 Click on the “Account”-menu button. 
  
 [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-approved.jpg)]()
 
-STEP 3: CHOOSE THE MENU ITEM  
- 
+**STEP 3: CHOOSE THE MENU ITEM  
  
 Click on the menu item “Register PRE-ICO transaction (from 24/02/2018-10/03/2018)”. 
 
 [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-register.jpg)]()
 
-STEP 4: PACKAGE  
+**STEP 4: PACKAGE  
  
  
 Select a package of your choice or fill in your own ETH amount on the custom package that you want to contribute and click the “BUY”-button. 
@@ -52,7 +48,7 @@ IMPORTANT THINGS !!!
 2)	DONT FORGET TO FILL IN THE FORM TO REGISTER YOUR TRANSACTION. 
 3)	USE MAX GWEI 50, GAS LIMIT 21000 
  
-STEP 4.1: SENDING FUNDS 
+**STEP 4.1: SENDING FUNDS 
 
 [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-etherad.jpg)]()
  
@@ -66,7 +62,7 @@ After you made the contribution, if the page is refreshing, it is because of the
  
 [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-TXid.jpg)]()
 
-STEP 5: CONTRIBUTIONS 
+**STEP 5: CONTRIBUTIONS 
  
  
 See your contribution in the list with the status “Under review”. 
