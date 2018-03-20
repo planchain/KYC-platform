@@ -1,4 +1,4 @@
-()[![N|Solid](https://safehaven.io/img/logo_color.png)](https://safehaven.io/)
+[![N|Solid](https://safehaven.io/img/logo_color.png)](https://safehaven.io/)
 
 
 # KYC-platform
