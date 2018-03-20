@@ -14,6 +14,11 @@ Inhouse build KYC platform
 [![N|Solid](https://safehaven.io/files/banners.png)](https://safehaven.io/)
 
 
-GUIDELINE: How to contribute SHA Tokens
-STEP 1: LOG INTO YOUR ACCOUNT
-Log into your account with the account details you have whitelisted.
+GUIDELINE: How to contribute SHA Tokens 
+ 
+ 
+STEP 1: LOG INTO YOUR ACCOUNT 
+ 
+ 
+Log into your account with the account details you have whitelisted. 
+
