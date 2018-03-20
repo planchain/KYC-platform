@@ -36,7 +36,7 @@ STEP 3: CHOOSE THE MENU ITEM
  
 Click on the menu item “Register PRE-ICO transaction (from 24/02/2018-10/03/2018)”. 
 
-[![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-register.jpg)()
+[![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-register.jpg)]()
 
 STEP 4: PACKAGE  
  
