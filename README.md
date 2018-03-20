@@ -42,12 +42,10 @@ STEP 4: PACKAGE
  
  
 Select a package of your choice or fill in your own ETH amount on the custom package that you want to contribute and click the “BUY”-button. 
- 
 
- [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/packages.jpg)]()
+[![N|Solid](https://github.com/Safehaven-io/Media/blob/master/packages.jpg)]()
  
  STEP 4: PACKAGE  
- 
  
 IMPORTANT THINGS !!! 
 1)	ONLY SEND FUNDS FROM ERC-20 WALLET (best one is https://myetherwallet.com) FUNDS SENT FROM AN EXCHANGE WILL BE LOST !!! 
@@ -56,7 +54,7 @@ IMPORTANT THINGS !!!
  
 STEP 4.1: SENDING FUNDS 
 
- [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-etherad.jpg)]()
+[![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-etherad.jpg)]()
  
  
 Dujardin Logino, the Co-founder of SAFE HAVEN presents some important information regarding the ETH contribution address. Make sure the ETH address in the video is the same as the one in the right. 
