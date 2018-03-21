@@ -11,7 +11,7 @@
 	  function gtag(){dataLayer.push(arguments);}
 	  gtag('js', new Date());
 
-	  gtag('config', 'UA-111095550-1');
+	  gtag('config', ' ');
 	</script>
     <meta charset="utf-8">
     <meta id="pagemeta" page="pre-sale">
