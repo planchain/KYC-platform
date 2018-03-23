@@ -29,6 +29,7 @@ Click on the “Account”-menu button.
  
 [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Account-approved.jpg)]()
 
+
 **STEP 3: CHOOSE THE MENU ITEM**
  
 Click on the menu item “Register PRE-ICO transaction (from 24/02/2018-10/03/2018)”. 
@@ -71,12 +72,18 @@ Note that it will take some days to review all the transactions.
  [![N|Solid](https://github.com/Safehaven-io/Media/blob/master/Etherscan.jpg)]()
  
  
-SAFE HAVEN – The Solution To Digital Inheritance 
+SAFE HAVEN – The Solution To Digital Inheritance
+
 For further information please visit: https://safehaven.io 
+
 Telegram: https://t.me/safehavenio 
+
 Reddit: https://www.reddit.com/r/safehavenio 
+
 Twitter: https://twitter.com/safeHavenio 
+
 Facebook: https://fb.me/SafeHaven.io 
+
  
  
  
